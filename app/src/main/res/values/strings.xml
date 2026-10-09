@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EXIF Cleaner + Vault</string>
+    <string name="tile_panic_label">Shred Vault</string>
+</resources>
